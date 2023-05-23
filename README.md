@@ -13,5 +13,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: [quotes- noemie-b]()  git@github.com:noemieln/quotes-aubel-bn.git
-- `contributor-2`: [quotes-lyna-b]() github.com/Lyna2624/quotes-aubel-bn.git
+- `contributor-2`: [quotes-lyna-b]() git@github.com/Lyna2624/quotes-aubel-bn.git
 

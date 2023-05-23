@@ -7,7 +7,7 @@ A python program that generates programming quotes and jokes.
 - `initiator`: AUBEL MANON Group BN
 - `contributor-1`: LARGENT NOEMIE Group BN
 - `contributor-2`: ARROUL LYNA BN 
--`contributor-3`: TOTO Titi Group B 
+-`contributor-3`: AUBEL MANON Group BN 
 
 
 ## Fork urls
